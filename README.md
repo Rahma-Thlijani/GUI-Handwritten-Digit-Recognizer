@@ -1,4 +1,4 @@
-![Image](digits1.png)
+![Image](digits.png)
 # Handwritten Digit Recognizer using CNN with GUI 
 Data science project that uses deep learning and multiple linear regression aiming to predict the number of views for youtube videos.
 ## Data Description

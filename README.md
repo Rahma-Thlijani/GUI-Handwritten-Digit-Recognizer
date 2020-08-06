@@ -1,1 +1,1 @@
-# Handwritten Digit Recognizer
+# Handwritten Digit Recognizer using CNN with GUI
